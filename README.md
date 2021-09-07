@@ -10,3 +10,6 @@
 - ACCESS_TOKEN_SECRET:
 - REFRESH_TOKEN_SECRET: 
 
+`run` :
+yarn start:dev
+
