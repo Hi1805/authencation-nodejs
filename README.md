@@ -1,6 +1,6 @@
 # authencation-nodejs
 
-#AUTHENCATION BASIC 
+#AUTHENCATION BASIC  : using  token 
 
 `.ENV HAVE `:
 - MYSQL_ENV_HOST :
